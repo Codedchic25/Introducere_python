@@ -1,0 +1,7 @@
+﻿nume = input("Cum te cheamă? ")
+oras = input("Oraș: ")
+varsta = int(input("Câți ani ai? "))
+ocupatie = input("Ocupație: ")
+print("\n" + "-" * 30)
+print(f"Nume: {nume.upper()}\nOraș: {oras}\nVârstă: {varsta} ani\nOcupație: {ocupatie}")
+print("-" * 30)

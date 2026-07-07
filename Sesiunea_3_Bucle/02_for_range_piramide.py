@@ -1,0 +1,5 @@
+﻿for i in range(2, 11, 2): print(f"Pătratul lui {i} este {i**2}")
+print("\nPiramidă normală:")
+for i in range(1, 6): print("*" * i)
+print("\nPiramidă inversă:")
+for i in range(5, 0, -1): print("*" * i)
